@@ -1,0 +1,10 @@
+.rdt_TableHeadRow {
+  background-color: #eef4ff !important;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+
+.MuiLinearProgress-root {
+  height: 10px !important;
+  border-radius: 12px !important;
+}

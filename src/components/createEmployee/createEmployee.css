@@ -1,0 +1,9 @@
+.MuiTextField-root {
+  width: 100%;
+}
+
+.MuiButton-containedSecondary,
+.MuiButton-containedPrimary {
+  width: 100%;
+  min-height: 54px;
+}
